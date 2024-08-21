@@ -1,1 +1,6 @@
 install pyautogui
+
+import pyautogui
+
+541, 1076
+538, 66 to 1908, 1030
